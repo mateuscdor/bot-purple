@@ -1,0 +1,23 @@
+{
+  "name": "bot-purple",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkp1/bot-purple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkp1/bot-purple/issues"
+  },
+  "homepage": "https://github.com/gkp1/bot-purple#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.0.0"
+  },
+  "description": ""
+}

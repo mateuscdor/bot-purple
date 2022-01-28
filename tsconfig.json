@@ -1,9 +1,8 @@
 {
   "compilerOptions": {
     "target": "es6",
-    "esModuleInterop": true,
-    "noImplicitAny": true
+    "esModuleInterop": true
   },
-  "include": ["src/**/*"],
-  "exclude": ["node_modules", "**/*.spec.ts", "misc_files/arquivo"]
+  "include": ["src/bot_main.ts"],
+  "exclude": ["node_modules", "/*.spec.ts", "misc_files/arquivo"]
 }
