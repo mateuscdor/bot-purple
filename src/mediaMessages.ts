@@ -1,4 +1,4 @@
-import { MessageType, MessageOptions, Mimetype } from '@adiwajshing/baileys-md'
+import { MessageType, MessageOptions, Mimetype } from '@adiwajshing/baileys'
 // Sending gifs
 await sock.sendMessage(
     id, 

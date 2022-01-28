@@ -6,10 +6,10 @@ import makeWASocket, {
   useSingleFileAuthState,
   MiscMessageGenerationOptions,
   AnyMessageContent,
-} from "@adiwajshing/baileys-md";
-import Mimetype from "@adiwajshing/baileys-md";
-import MessageOptions from "@adiwajshing/baileys-md";
-import MessageType from "@adiwajshing/baileys-md";
+} from "@adiwajshing/baileys";
+import Mimetype from "@adiwajshing/baileys";
+import MessageOptions from "@adiwajshing/baileys";
+import MessageType from "@adiwajshing/baileys";
 import { getTimeAndDate } from "./getTimeAndDate";
 import { readFromFile } from "./readFromFile";
 import { variableMessage } from "./variableMessage";
