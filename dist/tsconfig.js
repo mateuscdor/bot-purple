@@ -1,4 +1,0 @@
-{
-    "esModuleInterop";
-    true;
-}
