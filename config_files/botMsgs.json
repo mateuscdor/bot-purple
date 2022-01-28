@@ -1,0 +1,28 @@
+{
+  "emojis": "😃😄👍👎👋✋☝️👇👆👉👈🙏🗒️0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟🔢🆗🚫❗❕❓❔‼️⁉️⚠️✅♻️❎🇧🇷",
+  "ok": "🆗",
+  "numpadx": [
+    {
+      "0": "0️⃣",
+      "1": "1️⃣",
+      "2": "2️⃣",
+      "3": "3️⃣",
+      "4": "4️⃣",
+      "5": "5️⃣",
+      "6": "6️⃣",
+      "7": "7️⃣",
+      "8": "8️⃣",
+      "9": "9️⃣",
+      "10": "🔟",
+      "1234": "🔢"
+    }
+  ],
+  "numpad": ["0️⃣", "1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣", "6️⃣", "7️⃣", "8️⃣", "9️⃣", "🔟"],
+  "bemVindoNovoCliente": "Olá! 😃👋 Seja bem-vindo(a) ao Autoatendimento {companyName}.\\n\\nQual o motivo do seu contato?",
+  "bemVindoClienteAntigo1": "Olá! 😃👋 Que bom te ver novamente aqui na {companyName}. Qual o motivo do seu contato?",
+  "bemVindoClienteAntigo2": "Olá! 😃👋 Que bom te ver novamente aqui na {companyName}! Qual o motivo do seu contato?",
+  "bemVindoClienteAntigo3": "Olá, 😃👋 que bom te ver novamente aqui na {companyName}. Qual o motivo do seu contato?",
+  "bemVindoClienteAntigo4": "Olá, 😃👋 que bom te ver novamente aqui na {companyName}! Qual o motivo do seu contato?",
+  "listaParaOrcamento": "👉🗒️ Escolha na lista de produtos a seguir o(s) produto(s) que deseja adicionar ao seu orçamento.",
+  "listaParaPedido": "👉🗒️ Escolha na lista de produtos a seguir o(s) produto(s) que deseja adicionar ao seu pedido."
+}
